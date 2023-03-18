@@ -1,0 +1,56 @@
+.register-page-backround {
+    background: lightblue
+}
+
+.register-div-style {
+    width: 800px;
+    height: 600px;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    margin: auto; 
+    margin-top: 100px;
+}
+
+.register-div-style {
+    background-image: url('../images/backround.jpeg');
+    background-size: cover; 
+    width: 800px; 
+    height: 600px;
+    position: relative;
+  }
+
+  form label {
+    display: inline-block;
+    width: 150px;
+    text-align: right;
+    margin-right: 10px; 
+    margin-bottom: 20px;
+    color: white;
+    font-size: large;
+
+  }
+
+  form input {
+    display: inline-block;
+    width: 200px;
+    height: 50px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+  }
+
+  form button[type="submit"] {
+    width: 150px;
+    height: 50px;
+    border-radius: 40px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+  }
+  
+  form{
+    margin-top: 50px;
+  }
+  
+  
+  
+  
